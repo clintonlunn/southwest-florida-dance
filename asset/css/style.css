@@ -299,8 +299,8 @@ ul.social-list li a:hover i {
 /* Logo styling */
 /* ----------------------------------------------------------------*/
 .logo-image {
-    width: 60px;
-    height: 60px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
     overflow: hidden;
     margin-top: 6px;
@@ -367,7 +367,7 @@ a.navbar-brand {
     font-size: 16px;
     line-height: 10px;
     font-weight: 500;
-    padding: 25px 15px 30px;
+    padding: 40px 15px 45px;
     overflow: hidden;
     border-top: 2px solid transparent;
     transition: all 0.3s ease-in-out;
