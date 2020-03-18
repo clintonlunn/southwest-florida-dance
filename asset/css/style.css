@@ -2179,3 +2179,7 @@ older {
     font-weight: 400;
     margin-top: 30px;
 }
+
+.navbar-center {
+    float: center !important;
+  }
