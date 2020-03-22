@@ -153,8 +153,29 @@ h6 {
     color: #fff;
 }
 
+/*------------------------------------------*/
+/*	     card styling
+/*------------------------------------------*/
 
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
 
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.card-text {
+    padding: 2px 16px;
+}
 
 /*------------------------------------------*/
 /*	     02 - Header & Navigation
@@ -2182,4 +2203,4 @@ older {
 
 .navbar-center {
     float: center !important;
-  }
+}
